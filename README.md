@@ -2,6 +2,8 @@
 
 Ever wondered how many socks you need to pull from your drawer to guarantee a matching pair? This fun little app dives into the world of probability with a sock twist!
 
+<img src="https://github.com/andrewliew86/Sock-pairing-probability-explorer/blob/main/images/app_img.PNG">
+
 ## Features
 - Calculate the minimum socks needed for a match
 - Interactive sliders for different scenarios
